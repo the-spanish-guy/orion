@@ -1,3 +1,5 @@
 # This is ORION
 
-atualmente orion usa uma API estatica, futuramente será integrado a uma noSQL assim se tornando mais dinamico
+atualmente Orion usa uma API estática, futuramente será integrado a uma NoSQL assim se tornando mais dinâmico
+
+:smile:
